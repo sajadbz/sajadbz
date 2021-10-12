@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajadbz](https://github.com/sajadbz)
 
-- 📝 I regularly write articles on [https://barnamenevisan.org/Articles/All?AuthorId=55](https://barnamenevisan.org/Articles/All?AuthorId=55)
+- 📝 I regularly write articles on [barnamenevisan.org](https://barnamenevisan.org/Articles/All?AuthorId=55)
 
 - 💬 Ask me about **C#, Asp .Net Webform, Asp .Net MVC, Asp .Net Core, WPF, Winforms, HTML, Css, Js**
 
