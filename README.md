@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Xiaomi Website](https://miiran.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sajadbz](https://github.com/sajadbz)
+- 👨‍💻 All of my projects are available at [my github (sajadbz)](https://github.com/sajadbz)
 
 - 📝 I regularly write articles on [barnamenevisan.org](https://barnamenevisan.org/Articles/All?AuthorId=55)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sajad.bagherzadeh@gmail.com**
 
-- 📄 Know about my experiences [http://bagherzadeh.info](http://bagherzadeh.info)
+- 📄 Know about my experiences [my website](http://bagherzadeh.info)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
