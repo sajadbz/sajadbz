@@ -22,9 +22,6 @@
 
 - 🧭 <a href="https://github.com/sajadbz/dotnet-developer-roadmap">**.NET Developer Roadmap**</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9fc12fe8430e242982e8821087dbe6fad166dd827837dddb1d9f77938bc25772/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361696661757374637365"><img src="https://camo.githubusercontent.com/9fc12fe8430e242982e8821087dbe6fad166dd827837dddb1d9f77938bc25772/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361696661757374637365" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=sajadbz" style="max-width: 100%;"></a>
-
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajadbz&show_icons=true&locale=en" alt="sajadbz" />
  </p>
  <h3 align="left">Languages and Tools:</h3>
