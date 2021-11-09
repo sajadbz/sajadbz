@@ -12,15 +12,13 @@
 
 - 🔭 I’m currently working on [Xiaomi Website](https://miiran.com)
 
-- 👨‍💻 All of my projects are available at [my github (sajadbz)](https://github.com/sajadbz)
+- 🧭 <a href="https://github.com/sajadbz/AspNetCore-Developer-Roadmap">**.NET Developer Roadmap**</a>
 
 - 📝 I regularly write articles on [barnamenevisan.org](https://barnamenevisan.org/Articles/All?AuthorId=55)
 
 - 💬 Ask me about **C#, Asp .Net Webform, Asp .Net MVC, Asp .Net Core, WPF, Winforms, HTML, Css, Js**
 
 - 📫 How to reach me **sajad.bagherzadeh@gmail.com**
-
-- 🧭 <a href="https://github.com/sajadbz/dotnet-developer-roadmap">**.NET Developer Roadmap**</a>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajadbz&show_icons=true&locale=en" alt="sajadbz" />
  </p>
