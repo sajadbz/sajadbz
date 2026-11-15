@@ -1,32 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sajad Bagherzadeh</h1>
-<h3 align="center">A passionate backend developer from Iran</h3>
-<p align="center">
-<a href="https://twitter.com/sajadbagherzad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajadbagherzad1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajadbz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajadbz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4399533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4399533" height="30" width="40" /></a>
-<a href="https://instagram.com/sajad.pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajad.pro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sajadbagherzadehpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sajadbagherzadehpro" height="30" width="40" /></a>
-</p>
+# Hi there, I'm Sajad 👋
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajadbz" alt="sajadbz" /></a> </p>
+### QA Engineer | Test Automation | Software Quality | C#/.NET
 
-- 🔭 I’m currently working on [Xiaomi Website](https://miiran.com)
+I'm a **Software QA Engineer** with a background in backend and full-stack development, currently focused on quality engineering, test automation, and reliable software delivery.
 
-- 🧭 <a href="https://github.com/sajadbz/AspNetCore-Developer-Roadmap">**.NET Developer Roadmap**</a> | <a href="https://github.com/sajadbz/Microsoft_Certification"> **Microsoft Certification Roadmap**</a>
+My experience in **C# and .NET development** helps me approach software testing from both a developer's and a QA engineer's perspective.
 
-- 📝 I regularly write articles on [barnamenevisan.org](https://barnamenevisan.org/Articles/All?AuthorId=55)
+I enjoy understanding complex business requirements, finding gaps in test coverage, and improving software quality through practical testing strategies and automation.
 
-- 💬 Ask me about **C#, Asp .Net Webform, Asp .Net MVC, Asp .Net Core, WPF, Winforms, HTML, Css, Js**
+### 🔍 What I Work On
 
-- 📫 How to reach me **sajad.bagherzadeh@gmail.com**
+- **Test Automation:** Building and reviewing End-to-End tests with Cypress.
+- **API Testing:** Validating REST APIs using Postman and backend knowledge.
+- **Functional Testing:** Designing test cases, analyzing requirements, and validating business workflows.
+- **Quality Engineering:** Reviewing automated tests for reliability, maintainability, and meaningful assertions.
+- **Financial Workflows:** Testing complex business processes involving invoicing, reimbursements, and financial transactions.
+- **AI-Assisted QA:** Exploring structured AI workflows for requirement analysis, test design, and code reviews.
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajadbz&show_icons=true&locale=en" alt="sajadbz" />
- </p>
- <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a></p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajadbz&show_icons=true&locale=en&layout=compact" alt="sajadbz" />
-  &nbsp;
-</p>
+### 🛠️ Technologies & Tools
+
+**Testing & QA:** Cypress, Postman, Azure DevOps Test Plans, E2E Testing, API Testing, Regression Testing
+
+**Development:** C#, .NET, ASP.NET Core, JavaScript, Angular, Blazor
+
+**Engineering Tools:** Git, GitHub, Azure DevOps, Visual Studio, VS Code
+
+**Current Interests:** AI-Assisted Quality Engineering, Test Automation Architecture, Developer Productivity
+
+### 🚀 Recent Professional Work
+
+- Designed and documented functional test scenarios for business-critical financial workflows.
+- Reviewed automated test implementations to identify coverage gaps, test-data risks, and reliability concerns.
+- Developed structured approaches to analyzing requirements and translating business rules into test scenarios.
+- Explored reusable AI-assisted workflows to support QA analysis and code review.
+
+*Recent professional work includes proprietary projects. Descriptions here focus on general engineering practices without exposing internal code or business information.*
+
+### 📚 Selected Public Projects
+
+- **[Sbz Clean Architecture](https://github.com/sajadbz/Sbz-clean-architecture)** — Exploring clean architecture principles and maintainable C# application design.
+- **[ClassFinder](https://github.com/sajadbz/ClassFinder)** — A C# utility for discovering classes and methods using attributes.
+- **[Single Responsibility Principle](https://github.com/sajadbz/SingleResponsibilityPrinciple)** — Educational examples demonstrating SOLID principles.
+- **[Open/Closed Principle](https://github.com/sajadbz/OpenClosedPrinciple)** — C# examples focused on extensible software design.
+
+### 🌱 Currently Exploring
+
+- AI-assisted test design and requirements analysis
+- Reliable and maintainable automation strategies
+- Better code review practices for automated tests
+- Connecting software development knowledge with modern quality engineering
+
+### 💡 My Approach
+
+**Quality is more than finding bugs.** It's about understanding requirements, identifying risks early, building reliable tests, and helping teams deliver better software.
